@@ -1,0 +1,9 @@
+c:\users\internet\documents\visual studio 2017\Projects\NumbersOrdenator\NumbersOrdenator\bin\Debug\NumbersOrdenator.exe.config
+c:\users\internet\documents\visual studio 2017\Projects\NumbersOrdenator\NumbersOrdenator\bin\Debug\NumbersOrdenator.exe
+c:\users\internet\documents\visual studio 2017\Projects\NumbersOrdenator\NumbersOrdenator\bin\Debug\NumbersOrdenator.pdb
+c:\users\internet\documents\visual studio 2017\Projects\NumbersOrdenator\NumbersOrdenator\obj\Debug\NumbersOrdenator.Form1.resources
+c:\users\internet\documents\visual studio 2017\Projects\NumbersOrdenator\NumbersOrdenator\obj\Debug\NumbersOrdenator.Properties.Resources.resources
+c:\users\internet\documents\visual studio 2017\Projects\NumbersOrdenator\NumbersOrdenator\obj\Debug\NumbersOrdenator.csproj.GenerateResource.Cache
+c:\users\internet\documents\visual studio 2017\Projects\NumbersOrdenator\NumbersOrdenator\obj\Debug\NumbersOrdenator.exe
+c:\users\internet\documents\visual studio 2017\Projects\NumbersOrdenator\NumbersOrdenator\obj\Debug\NumbersOrdenator.pdb
+c:\users\internet\documents\visual studio 2017\Projects\NumbersOrdenator\NumbersOrdenator\obj\Debug\NumbersOrdenator.csprojResolveAssemblyReference.cache

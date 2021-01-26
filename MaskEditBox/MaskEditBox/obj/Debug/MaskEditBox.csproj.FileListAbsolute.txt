@@ -1,0 +1,10 @@
+C:\Users\Internet\source\repos\MaskEditBox\MaskEditBox\bin\Debug\MaskEditBox.exe.config
+C:\Users\Internet\source\repos\MaskEditBox\MaskEditBox\bin\Debug\MaskEditBox.exe
+C:\Users\Internet\source\repos\MaskEditBox\MaskEditBox\bin\Debug\MaskEditBox.pdb
+C:\Users\Internet\source\repos\MaskEditBox\MaskEditBox\obj\Debug\MaskEditBox.csprojAssemblyReference.cache
+C:\Users\Internet\source\repos\MaskEditBox\MaskEditBox\obj\Debug\MaskEditBox.Form1.resources
+C:\Users\Internet\source\repos\MaskEditBox\MaskEditBox\obj\Debug\MaskEditBox.Properties.Resources.resources
+C:\Users\Internet\source\repos\MaskEditBox\MaskEditBox\obj\Debug\MaskEditBox.csproj.GenerateResource.cache
+C:\Users\Internet\source\repos\MaskEditBox\MaskEditBox\obj\Debug\MaskEditBox.csproj.CoreCompileInputs.cache
+C:\Users\Internet\source\repos\MaskEditBox\MaskEditBox\obj\Debug\MaskEditBox.exe
+C:\Users\Internet\source\repos\MaskEditBox\MaskEditBox\obj\Debug\MaskEditBox.pdb

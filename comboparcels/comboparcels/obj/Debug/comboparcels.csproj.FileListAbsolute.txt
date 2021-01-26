@@ -1,0 +1,8 @@
+c:\users\internet\documents\visual studio 2017\Projects\comboparcels\comboparcels\bin\Debug\comboparcels.exe.config
+c:\users\internet\documents\visual studio 2017\Projects\comboparcels\comboparcels\bin\Debug\comboparcels.exe
+c:\users\internet\documents\visual studio 2017\Projects\comboparcels\comboparcels\bin\Debug\comboparcels.pdb
+c:\users\internet\documents\visual studio 2017\Projects\comboparcels\comboparcels\obj\Debug\comboparcels.Form1.resources
+c:\users\internet\documents\visual studio 2017\Projects\comboparcels\comboparcels\obj\Debug\comboparcels.Properties.Resources.resources
+c:\users\internet\documents\visual studio 2017\Projects\comboparcels\comboparcels\obj\Debug\comboparcels.csproj.GenerateResource.Cache
+c:\users\internet\documents\visual studio 2017\Projects\comboparcels\comboparcels\obj\Debug\comboparcels.exe
+c:\users\internet\documents\visual studio 2017\Projects\comboparcels\comboparcels\obj\Debug\comboparcels.pdb

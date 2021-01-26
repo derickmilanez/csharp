@@ -1,0 +1,9 @@
+c:\users\internet\documents\visual studio 2017\Projects\Anos\Anos\bin\Debug\Anos.exe.config
+c:\users\internet\documents\visual studio 2017\Projects\Anos\Anos\bin\Debug\Anos.exe
+c:\users\internet\documents\visual studio 2017\Projects\Anos\Anos\bin\Debug\Anos.pdb
+c:\users\internet\documents\visual studio 2017\Projects\Anos\Anos\obj\Debug\Anos.csprojResolveAssemblyReference.cache
+c:\users\internet\documents\visual studio 2017\Projects\Anos\Anos\obj\Debug\Anos.Form1.resources
+c:\users\internet\documents\visual studio 2017\Projects\Anos\Anos\obj\Debug\Anos.Properties.Resources.resources
+c:\users\internet\documents\visual studio 2017\Projects\Anos\Anos\obj\Debug\Anos.csproj.GenerateResource.Cache
+c:\users\internet\documents\visual studio 2017\Projects\Anos\Anos\obj\Debug\Anos.exe
+c:\users\internet\documents\visual studio 2017\Projects\Anos\Anos\obj\Debug\Anos.pdb

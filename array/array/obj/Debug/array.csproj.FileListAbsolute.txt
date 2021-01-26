@@ -1,0 +1,9 @@
+c:\users\internet\documents\visual studio 2017\Projects\array\array\bin\Debug\array.exe.config
+c:\users\internet\documents\visual studio 2017\Projects\array\array\bin\Debug\array.exe
+c:\users\internet\documents\visual studio 2017\Projects\array\array\bin\Debug\array.pdb
+c:\users\internet\documents\visual studio 2017\Projects\array\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+c:\users\internet\documents\visual studio 2017\Projects\array\array\obj\Debug\array.Form1.resources
+c:\users\internet\documents\visual studio 2017\Projects\array\array\obj\Debug\array.Properties.Resources.resources
+c:\users\internet\documents\visual studio 2017\Projects\array\array\obj\Debug\array.csproj.GenerateResource.Cache
+c:\users\internet\documents\visual studio 2017\Projects\array\array\obj\Debug\array.exe
+c:\users\internet\documents\visual studio 2017\Projects\array\array\obj\Debug\array.pdb

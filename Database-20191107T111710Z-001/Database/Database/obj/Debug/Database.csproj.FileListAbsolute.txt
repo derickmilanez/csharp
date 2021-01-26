@@ -1,0 +1,12 @@
+C:\Users\Internet\Downloads\Database-20191107T111710Z-001\Database\Database\bin\Debug\Database.exe.config
+C:\Users\Internet\Downloads\Database-20191107T111710Z-001\Database\Database\bin\Debug\Database.exe
+C:\Users\Internet\Downloads\Database-20191107T111710Z-001\Database\Database\bin\Debug\Database.pdb
+C:\Users\Internet\Downloads\Database-20191107T111710Z-001\Database\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Internet\Downloads\Database-20191107T111710Z-001\Database\Database\obj\Debug\Database.Form1.resources
+C:\Users\Internet\Downloads\Database-20191107T111710Z-001\Database\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\Internet\Downloads\Database-20191107T111710Z-001\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+C:\Users\Internet\Downloads\Database-20191107T111710Z-001\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Internet\Downloads\Database-20191107T111710Z-001\Database\Database\obj\Debug\Database.exe
+C:\Users\Internet\Downloads\Database-20191107T111710Z-001\Database\Database\obj\Debug\Database.pdb
+C:\Users\Internet\Downloads\Database-20191107T111710Z-001\Database\Database\obj\Debug\Database.Form2.resources
+C:\Users\Internet\Downloads\Database-20191107T111710Z-001\Database\Database\obj\Debug\Database.Form3.resources

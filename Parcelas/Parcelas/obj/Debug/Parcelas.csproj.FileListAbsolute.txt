@@ -1,0 +1,9 @@
+c:\users\internet\documents\visual studio 2017\Projects\Parcelas\Parcelas\bin\Debug\Parcelas.exe.config
+c:\users\internet\documents\visual studio 2017\Projects\Parcelas\Parcelas\bin\Debug\Parcelas.exe
+c:\users\internet\documents\visual studio 2017\Projects\Parcelas\Parcelas\bin\Debug\Parcelas.pdb
+c:\users\internet\documents\visual studio 2017\Projects\Parcelas\Parcelas\obj\Debug\Parcelas.csprojResolveAssemblyReference.cache
+c:\users\internet\documents\visual studio 2017\Projects\Parcelas\Parcelas\obj\Debug\Parcelas.Form1.resources
+c:\users\internet\documents\visual studio 2017\Projects\Parcelas\Parcelas\obj\Debug\Parcelas.Properties.Resources.resources
+c:\users\internet\documents\visual studio 2017\Projects\Parcelas\Parcelas\obj\Debug\Parcelas.csproj.GenerateResource.Cache
+c:\users\internet\documents\visual studio 2017\Projects\Parcelas\Parcelas\obj\Debug\Parcelas.exe
+c:\users\internet\documents\visual studio 2017\Projects\Parcelas\Parcelas\obj\Debug\Parcelas.pdb
